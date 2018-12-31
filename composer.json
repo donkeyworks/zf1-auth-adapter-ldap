@@ -1,5 +1,5 @@
 {
-    "name": "diablomedia/zendframework1-auth-adapter-ldap",
+    "name": "donkeyworks/zendframework1-auth-adapter-ldap",
     "description": "Zend Framework 1 Auth_Adapter_Ldap component",
     "type": "library",
     "keywords": [
@@ -12,8 +12,8 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.0.0",
-        "diablomedia/zendframework1-auth": "^1.0.0",
-        "diablomedia/zendframework1-ldap": "^1.0.0"
+        "donkeyworks/zendframework1-auth": "^1.0.0",
+        "donkeyworks/zendframework1-ldap": "^1.0.0"
     },
     "autoload": {
         "classmap": [
